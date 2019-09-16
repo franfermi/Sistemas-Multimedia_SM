@@ -1,0 +1,4 @@
+Clase nueva Liendo2DImagen que herede de Lienzo2D.
+
+Crear clase JpanelImagen y modificar class Lienzo2D extends JpanelImagen
+En JpanelImagen añadis los metodos set y get
